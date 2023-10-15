@@ -21,9 +21,7 @@ class Solution {
 
         int l = maxNodeSum(root.left);
         int r = maxNodeSum(root.right);
-        System.out.println(root.val + " " + l + " " + r);
         max = Math.max(max, (root.val+ Math.max(0,  l) + Math.max(0,  r)));
-        System.out.println("Max : " + max);
         
         int ret = Math.max(l, r);
         ret = Math.max(0, ret);
