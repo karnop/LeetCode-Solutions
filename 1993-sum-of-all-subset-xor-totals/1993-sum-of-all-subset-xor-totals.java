@@ -12,9 +12,8 @@ class Solution {
             return subxor;
         }
 
-        list.add(nums[index]);
         int sum1 = subsets(nums, index+1, list, sub);
-        list.remove(list.size() - 1);
+        list.add(nums[index]);
         int sum2 = subsets(nums, index+1, list, sub);
         return sum1 + sum2;
     } 
