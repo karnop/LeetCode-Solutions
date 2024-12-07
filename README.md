@@ -33,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/karnop/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
