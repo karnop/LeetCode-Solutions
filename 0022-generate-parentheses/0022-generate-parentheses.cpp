@@ -30,9 +30,8 @@ void generateParenthesiss(int k, int left, int right, string temp, vector<string
     vector<string> generateParenthesis(int n) {
     string temp;
     vector<string> ans;
-    int k = n;
 
-    generateParenthesiss(2*k, k, k, temp, ans);
+    generateParenthesiss(2*n, n, n, temp, ans);
     return ans;
     }
 };
