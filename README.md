@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/karnop/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/karnop/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/karnop/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/karnop/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/karnop/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/karnop/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/karnop/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
