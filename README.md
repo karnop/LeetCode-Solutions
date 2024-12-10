@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/karnop/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/karnop/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/karnop/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Recursion
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/karnop/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/karnop/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -81,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/karnop/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/karnop/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
