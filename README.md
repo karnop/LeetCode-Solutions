@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/karnop/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/karnop/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/karnop/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/karnop/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/karnop/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/karnop/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/karnop/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/karnop/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/karnop/LeetCode-Solutions/tree/master/0231-power-of-two) |
