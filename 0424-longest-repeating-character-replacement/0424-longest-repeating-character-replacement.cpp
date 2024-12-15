@@ -12,17 +12,14 @@ public:
 
         maxf = max(maxf, um[s[right] - 'A']);
 
-        while((right-left+1) - maxf > k)
+        if((right-left+1) - maxf > k)
         {
-            um[s[left] - 'A']--;
-            maxf = 0;
-            for(auto x : um){
-                maxf = max(maxf, x.second);
-            }           
+            um[s[left] - 'A']--;          
             left++;
         }
-        ans = max(ans, right-left+1);
+        else ans = max(ans, right-left+1);
     }
     return ans;
 }
+
 };
