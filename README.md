@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/karnop/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/karnop/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karnop/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/karnop/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/karnop/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karnop/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/karnop/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/karnop/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
