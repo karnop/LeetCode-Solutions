@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/karnop/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karnop/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/karnop/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/karnop/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/karnop/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/karnop/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -148,9 +150,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/karnop/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/karnop/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/karnop/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
