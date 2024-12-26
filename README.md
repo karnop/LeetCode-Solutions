@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karnop/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/karnop/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/karnop/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/karnop/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/karnop/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/karnop/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karnop/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/karnop/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/karnop/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/karnop/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/karnop/LeetCode-Solutions/tree/master/0890-lemonade-change) |
