@@ -18,9 +18,10 @@ public:
 
     bool isBalanced(TreeNode* root) {
         if(root == nullptr) return true;
-        int abssum = abs(height(root->left) - height(root->right));
-        cout << abssum;
-        if(abssum > 1) return false;
-        return isBalanced(root->left) && isBalanced(root->right);
+        int lefth = height(root->left);
+        int righth = height(root->right);
+
+        if(abs(lefth-righth) > 1) return false;
+        else return isBalanced(root->left) && isBalanced(root->right);
     }
 };
