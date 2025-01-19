@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/karnop/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karnop/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/karnop/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/karnop/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/karnop/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/karnop/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/karnop/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/karnop/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/karnop/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/karnop/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/karnop/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 ## Recursion
 |  |
 | ------- |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/karnop/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/karnop/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/karnop/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -264,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/karnop/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -289,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/karnop/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/karnop/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/karnop/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/karnop/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/karnop/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -327,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/karnop/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/karnop/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/karnop/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/karnop/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/karnop/LeetCode-Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
