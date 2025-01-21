@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/karnop/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/karnop/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/karnop/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karnop/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/karnop/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/karnop/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/karnop/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/karnop/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/karnop/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/karnop/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/karnop/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/karnop/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/karnop/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/karnop/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
