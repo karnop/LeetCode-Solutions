@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/karnop/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/karnop/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karnop/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/karnop/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/karnop/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/karnop/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/karnop/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/karnop/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/karnop/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
