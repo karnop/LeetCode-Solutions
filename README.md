@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/karnop/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/karnop/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/karnop/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/karnop/LeetCode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/karnop/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/karnop/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/karnop/LeetCode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/karnop/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/karnop/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
