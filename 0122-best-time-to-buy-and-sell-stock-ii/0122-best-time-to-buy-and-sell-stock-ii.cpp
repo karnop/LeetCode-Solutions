@@ -37,7 +37,7 @@ public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         vector<vector<int>> dp(n+1, vector<int>(2, -1));
-        // return helper(n, 0, prices, dp);  // Start with not holding stock
-        return helperTabulation(prices);
+        return helper(0, 0, prices, dp);  // Start with not holding stock
+        // return helperTabulation(prices);
     }
 };
