@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/karnop/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/karnop/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0908-middle-of-the-linked-list](https://github.com/karnop/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -434,4 +435,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/karnop/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/karnop/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
