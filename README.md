@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karnop/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/karnop/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/karnop/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/karnop/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karnop/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/karnop/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/karnop/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/karnop/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karnop/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/karnop/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karnop/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/karnop/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/karnop/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
