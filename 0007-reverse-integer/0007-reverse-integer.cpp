@@ -1,19 +1,17 @@
 class Solution {
 public:
     int reverse(int x) {
-        int count = 1;  
-    int rev = 0; 
-    
-
-    while(x){
-        int rem = x%10;
-        if(rev > INT32_MAX/10 || rev < INT32_MIN/10) return 0;
-        rev *= 10;
-        rev+= rem;
-        count++;
-        x = x/10;
-    }
-
-    return rev;
+        int ans = 0;
+        while(x) {
+            int lastDigit = x%10;
+            x = x/10;
+            if (ans > INT_MAX/10 || (ans == INT_MAX/10 && lastDigit > 7))
+                return 0;
+            if (ans < INT_MIN/10 || (ans == INT_MIN/10 && lastDigit < -8))
+                return 0;   
+            ans = ans*10;
+            ans += lastDigit;
+        }
+        return ans;
     }
 };
