@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/karnop/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/karnop/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/karnop/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/karnop/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/karnop/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/karnop/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/karnop/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/karnop/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/karnop/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/karnop/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/karnop/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karnop/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/karnop/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/karnop/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/karnop/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/karnop/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
